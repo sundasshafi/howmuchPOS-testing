@@ -1,7 +1,3 @@
-Here it is rewritten cleanly in **paragraph form** (professional + ready to paste in README 👇):
-
----
-
 The **HowMuch Electron App testing** covers a wide range of modules and features to ensure overall product quality. The testing includes authentication flows such as login, logout, and shift management, along with detailed coverage of order management functionalities like new orders, online orders, order adjustments, return orders, customer management, product creation, purchase handling, expense recording, barcode printing, and cash drawer operations. Reporting features were also thoroughly tested, including category sales reports, order sales reports, item sales reports, expense reports, end shift reports, as well as X and Z reports. Database-related operations such as backup, restore, and data integrity checks were validated to ensure reliability.
 
 In addition, system settings were tested, including printer settings, payment configurations, device settings, cache settings, notification settings, database download/upload/import options, and resource monitoring. Localization testing was performed with a focus on Arabic language support. Peripheral integrations such as POS printers, barcode printers, and barcode scanners were also verified to ensure seamless hardware interaction.
